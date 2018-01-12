@@ -1,6 +1,9 @@
 # hello-world-react
 following https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
 
+Also see
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+
 Install project using yarn
 Eivinds-MacBook-Air:hello-world-react eivind$ yarn init
 yarn init v1.3.2
